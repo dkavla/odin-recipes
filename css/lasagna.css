@@ -1,0 +1,21 @@
+
+body {
+    background-color: #cd5c5c;
+}
+
+.back {
+    background-color: #e6e6fa;
+}
+
+.description {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.ingredients {
+    font-size: 20px;
+}
+
+.directions {
+    font-size: 17px;
+}
